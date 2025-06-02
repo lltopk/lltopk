@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 
 #### 🏆 Honors/Awards
-- a little cf, dnf, lol, ex-top1% north player for cf long long ago
+- a little 🏓, cf, dnf, lol, ex-top1% north player for cf long long ago
 
 <picture>
   <img
