@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 
 #### 🏆 Honors/Awards
-- a little java, cf and dnf, ex-top1% north player for cf 
+- a little java, js, ts, py
+- a little cf, dnf, lol, ex-top1% north player for cf long long ago
 
 <picture>
   <img
