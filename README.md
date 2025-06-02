@@ -32,10 +32,9 @@ Here are some ideas to get you started:
   />
 </picture>
 
-#### 💻 Todo/Done
-- Looking at：https://github.com/brush4j/brush4j/blob/main/README.md
-- Million-word notes(private)：https://github.com/brush4j/vsNotes
-- Favorite coding：
+#### 💻 Works
+- Looking at(Public)：https://github.com/brush4j/brush4j/blob/main/README.md
+- Million Words Blogs Nodes(Private)：https://github.com/brush4j/vsNotes
 
 #### 🌏 Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brush4j&layout=compact)
