@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 </picture>
 
 #### 💻 Works
-- Public Looking at：https://github.com/brush4j/brush4j/blob/main/README.md
-- Million Words Blogs Notes(Private)：https://github.com/brush4j/vsNotes
+- public looking at：https://github.com/brush4j/brush4j/blob/main/README.md
+- million words private notes：https://github.com/brush4j/vsNotes
 
 #### 🌏 Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brush4j&layout=compact)
