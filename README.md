@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 
 #### 🏆 Honors/Awards
-- a little java, js, ts, py
-- a little cf, dnf, lol, ex-top1% north player for cf long long ago
 
 <picture>
   <img
@@ -37,4 +35,6 @@ Here are some ideas to get you started:
 - million words private notes：https://github.com/brush4j/vsNotes
 
 #### 🌏 Languages
+- a little java, js, ts, py
+- a little cf, dnf, lol, ex-top1% north player for cf long long ago
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brush4j&layout=compact)
