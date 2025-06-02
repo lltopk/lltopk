@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </picture>
 
 #### 💻 Works
-- public looking at：https://github.com/brush4j/brush4j/blob/main/README.md
+- public looking at：https://github.com/brush4j/brush4j/blob/main/Works.md
 - million words private notes：https://github.com/brush4j/vsNotes
 
 #### 🌏 Languages
