@@ -17,12 +17,11 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=28&pause=1000&vCenter=true&width=700&lines=requirements+and+ideas+are+the+origin+of+programming...)](https://git.io/typing-svg)
 ---
-#### 🔭 Kits/Env
+#### 💻 Works
 | Git | VSCode | JetBrains | Gradle | Maven | HeidiSql | WindTerm | RedisInsight | VMware | Centos | Docker | K8S |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 
-💻 Works：https://github.com/brush4j/brush4j/blob/main/Works.md
-
+https://github.com/brush4j/brush4j/blob/main/Works.md
 
 #### 🏆 Honors/Awards
 - a little java, js, ts, py
