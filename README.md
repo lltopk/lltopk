@@ -17,13 +17,9 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=28&pause=1000&vCenter=true&width=700&lines=requirements+and+ideas+are+the+origin+of+programming...)](https://git.io/typing-svg)
 ---
-#### 💻 Works
-- https://github.com/brush4j/brush4j/blob/main/Works.md
-
-#### 🏆 Honors
-- a little java, js, ts, py
-- a little 🏓, cf, dnf, lol, ex-top1% north player for cf long long ago
-
+- todo💻
+:https://github.com/brush4j/brush4j/blob/main/Works.md
+- liking☺️:a little 🏓, cf, dnf, lol, ex-top1% north player for cf long long ago
 <picture>
   <img
     alt="Star History Chart"
