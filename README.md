@@ -21,7 +21,11 @@ Here are some ideas to get you started:
 | Git | VSCode | JetBrains | Gradle | Maven | HeidiSql | WindTerm | RedisInsight | VMware | Centos | Docker | K8S |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 
+💻 Works：https://github.com/brush4j/brush4j/blob/main/Works.md
+
+
 #### 🏆 Honors/Awards
+- a little java, js, ts, py
 - a little 🏓, cf, dnf, lol, ex-top1% north player for cf long long ago
 
 <picture>
@@ -31,11 +35,4 @@ Here are some ideas to get you started:
   />
 </picture>
 
-#### 💻 Works
-- public looking at：https://github.com/brush4j/brush4j/blob/main/Works.md
-- million words private notes：https://github.com/brush4j/vsNotes
 
-#### 🌏 Languages
-- a little java, js, ts, py
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brush4j&layout=compact)
