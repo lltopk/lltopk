@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 💻 What am i doing:
 <p>https://github.com/brush4j/brush4j/blob/main/Works.md</p>
 
-🏆 Honor:
 <picture>
   <img
     alt="Star History Chart"
