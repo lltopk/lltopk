@@ -2,7 +2,7 @@ This catalogue covers all my demos, projects and achievements from college to pr
 
 I am obsessive and a collector.
 ---
-#### 🌳后端框架调试指南与业务最佳实践
+#### 🌳后台业务框架最佳实践
 | 案例描述 | 仓库地址 |
 | ----------- | ----------- |
 | Git命令行实践 | https://github.com/brush4j/git-practice |
@@ -33,7 +33,7 @@ I am obsessive and a collector.
 | 网络基础NIO实践 | https://github.com/brush4j/nio-practice |
 | Java21实践 | https://github.com/brush4j/java21-practice |
 
-#### 🍃前端框架调试指南与速通
+#### 🍃前端调试指南与速通
 | 案例描述 | 仓库地址 |
 | ----------- | ----------- |
 | VSCode开启JavaScript调试实践 | https://github.com/brush4j/javascript-practice.git |
@@ -41,12 +41,12 @@ I am obsessive and a collector.
 | VSCode开启Vue项目调试与框架速通 | https://github.com/brush4j/vue3-practice |
 | 前端世界中的异步请求封装 | https://github.com/brush4j/handson-axios |
 
-#### 🤖人人都是脚本侠？AI
+#### 🤖机器学习
 | 案例描述 | 仓库地址 |
 | ----------- | ----------- |
 | Python速通 | https://github.com/brush4j/python-practice |
 
-#### 🚀我的开源项目
+#### 🌱我的开源项目
 | 项目描述 | 仓库地址 |
 | ----------- | ----------- |
 | 分布式商城学习项目 | https://github.com/brush4j/DistributedMall-heima |
@@ -69,13 +69,3 @@ I am obsessive and a collector.
 | 手写分布式定时任务xxljob | https://github.com/brush4j/handson-xxljob |
 | 手写通讯王者框架Netty | https://github.com/brush4j/handson-netty |
 
-
-#### 🌱复刻的项目
-| 仓库地址 |
-| ----------- |
-| https://github.com/brush4j/guava |
-| https://github.com/brush4j/puremvc-java-multicore-framework |
-| https://github.com/brush4j/spring-source-tuling |
-| https://github.com/brush4j/haidnorJVM |
-| https://github.com/brush4j/jump-to-controller |
-| https://github.com/brush4j/MybatisX |
