@@ -39,7 +39,7 @@ I am obsessive and a collector.
 | VSCode开启JavaScript调试实践 | https://github.com/brush4j/javascript-practice.git |
 | VSCode开启TypeScript调试实践 | https://github.com/brush4j/typescript-practice.git |
 | VSCode开启Vue项目调试与框架速通 | https://github.com/brush4j/vue3-practice |
-| 前端组件封装之Ajax/Axios | https://github.com/brush4j/handson-axios |
+| 前端世界中的异步请求封装 | https://github.com/brush4j/handson-axios |
 
 #### 🤖人人都是脚本侠？AI
 | 案例描述 | 仓库地址 |
