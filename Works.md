@@ -59,7 +59,7 @@ I am obsessive and a collector.
 | 多规则的单据号生成器 | https://github.com/brush4j/gen-receipt-number |
 | 防止重复提交组件 | https://github.com/brush4j/repeatsubmit-practice |
 | 分布式id生成算法snowflake | https://github.com/brush4j/handson-snowflake |
-| IntelliJ IDEA插件FeignClient Assistant已上架 | https://github.com/brush4j/feignx-plugin |
+| IntelliJ IDEA插件FeignClient Assistant | https://github.com/brush4j/feignx-plugin |
 
 #### 🚀手写框架系列
 | 项目描述 | 仓库地址 |
