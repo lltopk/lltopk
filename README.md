@@ -30,7 +30,6 @@ Here are some ideas to get you started:
   />
 </picture>
 
----
 📚 ebooks
 - https://spring.io/
 - https://zh.javascript.info/
