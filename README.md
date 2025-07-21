@@ -30,10 +30,11 @@ Here are some ideas to get you started:
   />
 </picture>
 
-📚 Book list, official document
-- spring
-- 现代JavaScript教程
-- mdn web
-- vue.js
-- atlassian
-- hello algorithm
+📚 Book list, official docs
+- https://spring.io/
+- https://zh.javascript.info/
+- https://developer.mozilla.org/zh-CN/
+- https://www.hello-algo.com/
+- https://v2.cn.vuejs.org/
+- https://git-scm.com/doc
+
