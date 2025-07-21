@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ---
 thinking is king 👑, trust your brain 🧠, practice is greater than form
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=28&pause=1000&vCenter=true&width=700&lines=thinking+is+king+👑+trust+your+brain+🧠...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=28&pause=1000&vCenter=true&width=700&lines=thinking+is+king+👑+rather+than+form+,+trust+your+brain+🧠...)](https://git.io/typing-svg)
 ---
 
 
