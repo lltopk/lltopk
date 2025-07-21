@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=28&pause=1000&vCenter=true&width=700&lines=requirements+and+ideas+are+the+origin+of+programming...)](https://git.io/typing-svg)
 ---
 思路为王👑，相信你的大脑🧠，实践大于形式
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=28&pause=1000&vCenter=true&width=700&lines=thinking is king 👑, trust your brain 🧠, practice is greater than form)](https://git.io/typing-svg)
-
 ---
 
 
