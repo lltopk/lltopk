@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img
     alt="Star History Chart"
     src="https://api.star-history.com/svg?repos=brush4j/data-desensitization,brush4j/feignx-plugin,brush4j/clear-unused-images-in-markdowns&type=Date&theme=dark"
-    style="width: 50%; height: 50%;"
+    style="height: 50%;"
   />
 </picture>
 
