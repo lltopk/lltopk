@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   />
 </picture>
 
+---
 📚 Book list, official docs
 - https://spring.io/
 - https://zh.javascript.info/
