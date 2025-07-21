@@ -1,6 +1,4 @@
 This catalogue covers all my demos, projects and achievements from college to present. 
-
-I am obsessive and a collector.
 ---
 #### 🌳后台业务框架最佳实践
 | 案例描述 | 仓库地址 |
