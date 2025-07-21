@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=28&pause=1000&vCenter=true&width=700&lines=requirements+and+ideas+are+the+origin+of+programming...)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=28&pause=1000&vCenter=true&width=700&lines=thinking+is+king+👑+rather+than+form+,+trust+your+brain+🧠...)](https://git.io/typing-svg)
----
 
+---
 💻 What am i doing
 <p>https://github.com/brush4j/brush4j/blob/main/Works.md</p>
 
@@ -28,8 +28,8 @@ Here are some ideas to get you started:
     src="https://api.star-history.com/svg?repos=brush4j/data-desensitization,brush4j/feignx-plugin,brush4j/clear-unused-images-in-markdowns&type=Date&theme=dark"
   />
 </picture>
----
 
+---
 📚 Book list, official docs
 - https://spring.io/
 - https://zh.javascript.info/
