@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 -->
 👋 profile
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=18&pause=1000&vCenter=true&width=700&lines=biz+🍃+origin+of+coding...)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=18&pause=1000&vCenter=true&width=700&lines=trust+your+brain+🧠+rather+than+form...)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=18&pause=1000&vCenter=true&width=700&lines=thinking+twice+online👑+coding+once...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=18&pause=1000&vCenter=true&width=700&lines=🤔thinking+is+origin+of+coding...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=18&pause=1000&vCenter=true&width=700&lines=trust+your+brain+🧠+rather+than+formalism...)](https://git.io/typing-svg)
 
 💻 doing
 <p>https://github.com/brush4j/brush4j/blob/main/Works.md</p>
