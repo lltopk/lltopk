@@ -32,9 +32,11 @@ Here are some ideas to get you started:
 ---
 📚 ebooks
 - https://spring.io/
+- https://springframework.org.cn/
+- https://www.hello-algo.com/
 - https://zh.javascript.info/
 - https://developer.mozilla.org/zh-CN/
-- https://www.hello-algo.com/
+- https://code.visualstudio.com/docs
 - https://v2.cn.vuejs.org/
 - https://git-scm.com/doc
 - https://refactoring.guru/design-patterns
