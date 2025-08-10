@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 - https://zh.javascript.info/
 - https://developer.mozilla.org/zh-CN/
 - https://code.visualstudio.com/docs
+- https://vscode.js.cn/docs
 - https://v2.cn.vuejs.org/
 - https://git-scm.com/doc
 - https://refactoring.guru/design-patterns
