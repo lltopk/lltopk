@@ -43,3 +43,7 @@ Here are some ideas to get you started:
 - https://refactoring.guru/design-patterns
 - https://develop365.gitlab.io/vant/zh-CN/home/
 
+📚 paper books
+- 高性能MySQL 电子工业出版社--Silvia Botros/Jeremy Tinley
+- Redis高手心法 电子工业出版社--李健青
+
