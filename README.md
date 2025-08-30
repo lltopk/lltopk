@@ -41,4 +41,5 @@ Here are some ideas to get you started:
 - https://v2.cn.vuejs.org/
 - https://git-scm.com/doc
 - https://refactoring.guru/design-patterns
+- https://develop365.gitlab.io/vant/zh-CN/home/
 
