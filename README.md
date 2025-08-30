@@ -44,6 +44,8 @@ Here are some ideas to get you started:
 - https://develop365.gitlab.io/vant/zh-CN/home/
 
 📚 paper books
-- 高性能MySQL 电子工业出版社--Silvia Botros/Jeremy Tinley
-- Redis高手心法 电子工业出版社--李健青
+- Effective Java中文版👨Joshua Bloch
+- Thinking in Java中文版👨Bruce Eckel
+- Hign Performance MySQL中文版👨Silvia Botros/Jeremy Tinley
+- Redis高手心法👨李健青
 
