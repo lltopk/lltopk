@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 - https://www.hello-algo.com/
 - https://zh.javascript.info/
 - https://developer.mozilla.org/zh-CN/
+- https://plugins.jetbrains.com/docs/intellij/plugins-quick-start.html
 - https://code.visualstudio.com/docs
 - https://vscode.js.cn/docs
 - https://v2.cn.vuejs.org/
