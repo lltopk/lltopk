@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 📚 paper books
 - [Effective Java中文版]@Joshua Bloch
 - [Thinking in Java中文版 ]@Bruce Eckel
+- [SQL必知必会]@Ben Forta
 - [Hign Performance MySQL中文版]@Silvia Botros/Jeremy Tinley
 - [Redis设计与实现]@黄健宏
 - [Redis高手心法]@李健青
