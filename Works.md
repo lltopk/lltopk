@@ -34,9 +34,10 @@ This catalogue covers all my demos, projects and achievements from college to pr
 #### 🍃前端调试指南与速通
 | 案例描述 | 仓库地址 |
 | ----------- | ----------- |
-| VSCode开启JavaScript调试实践 | https://github.com/lltopk/javascript-practice.git |
+| VSCode开启JavaScript/HTML调试实践 | https://github.com/lltopk/javascript-practice.git |
 | VSCode开启TypeScript调试实践 | https://github.com/lltopk/typescript-practice.git |
-| VSCode开启Vue项目调试与框架速通 | https://github.com/lltopk/vue3-practice |
+| VSCode开启Vue2项目调试与框架速通 | https://github.com/lltopk/vue2-practice |
+| VSCode开启Vue3项目调试与框架速通 | https://github.com/lltopk/vue3-practice |
 | 前端世界中的异步请求封装 | https://github.com/lltopk/handson-axios |
 
 #### 🤖机器学习
