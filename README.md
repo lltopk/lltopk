@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 
 ---
 📚 ebooks
-- https://leetcode.cn/
 - https://spring.io/
 - https://springframework.org.cn/
 - https://www.hello-algo.com/
@@ -44,6 +43,7 @@ Here are some ideas to get you started:
 - https://git-scm.com/doc
 - https://refactoring.guru/design-patterns
 - https://develop365.gitlab.io/vant/zh-CN/home/
+- https://leetcode.cn/
 
 📚 paper books
 - [Effective Java中文版]@Joshua Bloch
