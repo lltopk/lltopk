@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 ---
 📚 ebooks
+- https://leetcode.cn/
 - https://spring.io/
 - https://springframework.org.cn/
 - https://www.hello-algo.com/
