@@ -6,4 +6,4 @@
   />
 </picture>
 
-booklist: https://github.com/lltopk/lltopk/blob/main/booklist.md
+📚 https://github.com/lltopk/lltopk/blob/main/booklist.md
