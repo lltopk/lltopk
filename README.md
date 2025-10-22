@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 -->
 🚵🏻‍♂️ how to grow
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=18&pause=1000&vCenter=true&width=700&lines=🧠brain+🤔ideas+🍂details+🌳forms+📰docs...👋👋Get+your +hands+dirty)](https://git.io/typing-svg)
+👋👋Get+your +hands+dirty
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=18&pause=1000&vCenter=true&width=700&lines=🧠brain+🤔ideas+🍂details+🌳forms+📰docs...)](https://git.io/typing-svg)
 
 💻 doing
 <p>https://github.com/lltopk/lltopk/blob/main/Works.md</p>
