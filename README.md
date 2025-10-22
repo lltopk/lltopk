@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </picture>
 
 ---
-📚 ebooks
+🌏 ebooks
 - https://github.com/
 - https://spring.io/
 - https://springframework.org.cn/
