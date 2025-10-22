@@ -13,16 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - Hi there 👋
 -->
-🚴🏼‍♂️ 🧠 🤔 🍂 🖥️ 🌳 📰...
-
-<picture>
-  <img
-    alt="Star History Chart"
-    src="https://api.star-history.com/svg?repos=lltopk/data-desensitization,lltopk/feignx-plugin,lltopk/clear-unused-images-in-markdowns&type=Date&theme=dark"
-    style="width: 50%; height: 50%;"
-  />
-</picture>
-
-get your hands dirty
-- my projects: https://github.com/lltopk/lltopk/blob/main/projects.md
-- my booklist: https://github.com/lltopk/lltopk/edit/main/booklist
+profile: https://github.com/lltopk/lltopk
