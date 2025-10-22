@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=18&pause=1000&vCenter=true&width=700&lines=🧠brain+🤔ideas+🍂details+🖥️coding+🌳forms+📰docs...)](https://git.io/typing-svg)
 
 👋👋 get your hands dirty 
-- working https://github.com/lltopk/lltopk/blob/main/Works.md
+- my projects: https://github.com/lltopk/lltopk/blob/main/Works.md
+- my booklist: https://github.com/lltopk/lltopk/edit/main/booklist
+
 <picture>
   <img
     alt="Star History Chart"
@@ -26,29 +28,4 @@ Here are some ideas to get you started:
     style="width: 50%; height: 50%;"
   />
 </picture>
-
----
-🌏 ebooks
-- https://github.com/
-- https://spring.io/
-- https://springframework.org.cn/
-- https://www.hello-algo.com/
-- https://zh.javascript.info/
-- https://developer.mozilla.org/zh-CN/
-- https://plugins.jetbrains.com/docs/intellij/plugins-quick-start.html
-- https://code.visualstudio.com/docs
-- https://vscode.js.cn/docs
-- https://v2.cn.vuejs.org/
-- https://git-scm.com/doc
-- https://refactoring.guru/design-patterns
-- https://develop365.gitlab.io/vant/zh-CN/home/
-- https://leetcode.cn/
-
-📚 paper books
-- [Effective Java中文版]@Joshua Bloch
-- [Thinking in Java中文版 ]@Bruce Eckel
-- [SQL必知必会中文版]@Ben Forta
-- [Hign Performance MySQL中文版]@Silvia Botros/Jeremy Tinley
-- [Redis设计与实现]@黄健宏
-- [Redis高手心法]@李健青
 
