@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=18&pause=1000&vCenter=true&width=700&lines=🤔clear+thinking+is+origin+of+coding...)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=18&pause=1000&vCenter=true&width=700&lines=trust+your+brain+🧠+rather+than+formalism...)](https://git.io/typing-svg)
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=18&pause=1000&vCenter=true&width=700&lines=🧠brain+ideas+details+formalism...)](https://git.io/typing-svg)
+
+
+
 💻 doing
 <p>https://github.com/lltopk/lltopk/blob/main/Works.md</p>
 
