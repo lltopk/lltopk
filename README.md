@@ -27,5 +27,5 @@ Here are some ideas to get you started:
   />
 </picture>
 
-- my projects: https://github.com/lltopk/lltopk/blob/main/Works.md
+- my projects: https://github.com/lltopk/lltopk/blob/main/projects.md
 - my booklist: https://github.com/lltopk/lltopk/edit/main/booklist
