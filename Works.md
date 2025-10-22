@@ -1,12 +1,4 @@
-This catalogue covers all my demos, projects and achievements from college to present. 
-
-<picture>
-  <img
-    alt="Star History Chart"
-    src="https://api.star-history.com/svg?repos=lltopk/data-desensitization,lltopk/feignx-plugin,lltopk/clear-unused-images-in-markdowns&type=Date&theme=dark"
-    style="width: 50%; height: 50%;"
-  />
-</picture>
+It covers all my demos, projects and achievements from college to present. 
 
 #### 🌳后台业务框架最佳实践
 | 案例描述 | 仓库地址 |
