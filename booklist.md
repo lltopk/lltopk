@@ -1,5 +1,4 @@
 🌏 ebooks
-- https://github.com/
 - https://spring.io/
 - https://springframework.org.cn/
 - https://www.hello-algo.com/
