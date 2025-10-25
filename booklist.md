@@ -6,11 +6,11 @@
 - https://developer.mozilla.org/zh-CN/
 - https://plugins.jetbrains.com/docs/intellij/plugins-quick-start.html
 - https://code.visualstudio.com/docs
-- https://vscode.js.cn/docs
 - https://v2.cn.vuejs.org/
 - https://git-scm.com/doc
 - https://refactoring.guru/design-patterns
 - https://develop365.gitlab.io/vant/zh-CN/home/
+- https://maven.apache.org/
 
 📚 paper books
 - [Effective Java中文版]@Joshua Bloch
