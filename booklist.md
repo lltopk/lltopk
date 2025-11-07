@@ -11,6 +11,7 @@
 - https://refactoring.guru/design-patterns
 - https://develop365.gitlab.io/vant/zh-CN/home/
 - https://maven.apache.org/
+- https://element.eleme.cn/#/zh-CN
 
 📚 paper books
 - [Effective Java中文版]@Joshua Bloch
