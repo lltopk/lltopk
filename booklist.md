@@ -5,13 +5,15 @@
 - https://zh.javascript.info/
 - https://developer.mozilla.org/zh-CN/
 - https://plugins.jetbrains.com/docs/intellij/plugins-quick-start.html
-- https://code.visualstudio.com/docs
+- https://vscode.js.cn/docs
 - https://v2.cn.vuejs.org/
+- https://cn.vuejs.org/
 - https://git-scm.com/doc
 - https://refactoring.guru/design-patterns
-- https://develop365.gitlab.io/vant/zh-CN/home/
+- https://vant-ui.github.io/vant/#/zh-CN
 - https://maven.apache.org/
 - https://element.eleme.cn/#/zh-CN
+- https://element-plus.org/zh-CN/
 
 📚 paper books
 - [Effective Java中文版]@Joshua Bloch
