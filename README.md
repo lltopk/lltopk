@@ -1,1 +1,1 @@
-[![profile](https://img.shields.io/badge/lltopk-github-blue?logo=github)](https://lltopk.github.io/)
+[![profile](https://img.shields.io/badge/profile-github-blue?logo=github)](https://lltopk.github.io/)
