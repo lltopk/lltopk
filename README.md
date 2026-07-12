@@ -1,3 +1,3 @@
 📫 https://lltopk.github.io
 
-welcom to group: https://github.com/handson-open-frameset
+welcom to join or visit our organization: https://github.com/handson-open-frameset
