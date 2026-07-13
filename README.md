@@ -1,3 +1,3 @@
 📫 https://lltopk.github.io
 
-Our organization: https://github.com/handson-open-frameset
+Our group: https://github.com/handson-open-frameset
